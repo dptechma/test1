@@ -1,1 +1,4 @@
 1111111111111
+
+https://practicalmalwareanalysis.com/about/
+http://www.nostarch.com/malware.htm
